@@ -114,7 +114,6 @@ Alamat penarikan harus tetap kosong kecuali untuk menerima hasil penambangan
 Panduan Lebih Lanjut:
 
 Untuk detail tambahan tentang aturan dan konfigurasi, silakan merujuk ke dokumen official
-https://github.com/InternetMaximalism/intmax2-mining-cli/blob/main/README.md
 
 ### Informasi Klaim Token ITX
 Penyetoran yang Memenuhi Syarat:
