@@ -54,7 +54,7 @@ Ikuti langkah-langkah berikut untuk menginstal dan menjalankan node:
 
 1. Unduh skrip Auto instalasi:  
    ```bash
-   klik star di atas dulu
+   wget https://raw.githubusercontent.com/choir94/Airdropguide/refs/heads/main/Intmax.sh && chmod +x Intmax.sh
    ```
 ### Alur Pengaturan Mining-CLI
 1. Pilih Jaringan:
