@@ -54,7 +54,7 @@ Ikuti langkah-langkah berikut untuk menginstal dan menjalankan node:
 
 1. Unduh skrip Auto instalasi:  
    ```bash
-   wget loading
+   klik star di atas
    ```
 ### Alur Pengaturan Mining-CLI
 1. Pilih Jaringan:
